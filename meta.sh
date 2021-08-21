@@ -10,13 +10,12 @@ ku='\033[33;1m' #kuning
 # Jangan Recode Ya gayn
 
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────────────────────────────────────"$i"["$bi"•"$i"  "
-echo $i" |"$cy"                        Virus Palestinian Algerian "$i""
+echo $i" |"$cy"                        install the basics + metaSploit                               "$i""
 echo $i" |"$me"──────────────────────────────────────────────────────────────────────────────────────"$i"            "
 echo $i" |"$pu" AUTHOR :"$ku" HACKER ALI 17  [Algeria]"$i"          "
 echo $i" |"$pu" FACEBOOK :"$ku" https://www.facebook.com/profile.php?id=100010795364272"                      $i"    "
 echo $i" |"$pu" the organization:"$cy"المنظمة المنتقمون لفلسطين "                                                        $i       "                                                             "
-echo $i" |"$pu" Telephone number:"$ku" 0664683258"$i"                                                               "
-echo $i" |"$pu"youtube :"$ku"https://www.youtube.com/channel/UCmEkXHi9eq0jU_tBT3BfBeQ?view_as=subscriber"$i"
+echo $i" |"$pu" Telephone number:"$ku" 0664683258"$i"                                                               
  $i|"$pu" github :"$ku"https://github.com/hacker-ali-17                                                        "
 echo $i"["$bi"•"$i"]"$me"─────────────────────────────────────────────────────────────────────────────"$i"["$bi"•"$i""
 
