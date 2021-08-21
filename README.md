@@ -1,2 +1,3 @@
-# metaSploit
-Hi @ script is install metasploit without p.
+#install the basics + metaSploit 
+Hi @ Hey, install the basics and metaSploit without any hassle
+
